@@ -34,7 +34,7 @@
 
 # Circuit Diagram:
 
-![image alt text](images/diagram.png)
+![image alt text](images/diagram.png?v=1.1)
 
 # Code
 ## Dependencies:
